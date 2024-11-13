@@ -1,7 +1,7 @@
 Prashant Rasaily 👋
 
 Welcome to my GitHub profile! I'm Prashant Rasaily, a passionate  Software Engineer and B.Tech graduate.  
-This README will give you a glimpse into my journey as a developer and my work.
+
 -
 👨‍💻 About Me
 
